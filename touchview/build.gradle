@@ -1,5 +1,5 @@
 apply plugin: 'com.android.library'
-
+group='com.github.milindbableshwar'
 android {
     compileSdkVersion defaultCompileSdkVersion
     buildToolsVersion defaultBuildToolsVersion
